@@ -9,3 +9,4 @@ please read below command when using git:
 6. git add readme.txt = add the file you just created you'd like to commit (aka save) to change.
 7. git commit -m "your msg" = commit those changes to the repository's history with a short description of the updates.
 8. 
+9.
